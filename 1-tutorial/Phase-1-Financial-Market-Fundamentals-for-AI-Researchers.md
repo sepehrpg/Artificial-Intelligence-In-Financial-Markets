@@ -300,19 +300,18 @@ Return measures how much an asset changes over time.
 
 Simple return:
 
-\[
+$$
 r_t = \frac{P_t - P_{t-1}}{P_{t-1}}
-\]
+$$
 
 where:
-- \(P_t\) = current price
-- \(P_{t-1}\) = previous price
+- $$(P_t) = current price$$
+- $$(P_{t-1}) = previous price$$
 
 Log return:
-
-\[
+$$
 r_t = \log\left(\frac{P_t}{P_{t-1}}\right)
-\]
+$$
 
 #### Why returns matter more than raw price
 
