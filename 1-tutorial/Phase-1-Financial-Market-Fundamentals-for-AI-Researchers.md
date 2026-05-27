@@ -397,9 +397,9 @@ So:
 
 A common reference is:
 
-\[
+$$
 \text{Mid Price} = \frac{\text{Bid} + \text{Ask}}{2}
-\]
+$$
 
 This is often used in analysis, but real execution usually happens at bid or ask, not at the mid.
 
@@ -408,9 +408,9 @@ This is often used in analysis, but real execution usually happens at bid or ask
 
 Spread is the difference between ask and bid:
 
-\[
+$$
 \text{Spread} = \text{Ask} - \text{Bid}
-\]
+$$
 
 It is a direct cost of trading.
 
