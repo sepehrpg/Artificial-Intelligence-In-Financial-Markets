@@ -78,9 +78,9 @@ That includes:
 
 A stronger way to think about it is:
 
-\[
+$$
 \text{Market Data} = \text{Structured Data} + \text{Semi-Structured Data} + \text{Unstructured Data}
-\]
+$$
 
 Where:
 - **structured data** has a fixed schema like sql.
