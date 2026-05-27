@@ -348,9 +348,9 @@ Volatility measures how much price fluctuates.
 
 A simple sample volatility estimate is the standard deviation of returns:
 
-\[
+$$
 \sigma = \sqrt{\frac{1}{n-1}\sum_{i=1}^{n}(r_i - \bar{r})^2}
-\]
+$$
 
 #### Why it matters
 
